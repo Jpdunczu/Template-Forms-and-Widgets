@@ -1,0 +1,6 @@
+img {
+    height: 250px;
+}
+#slides img {
+    display: none;
+}
